@@ -1,0 +1,5 @@
+mkdir root home usr          # Only once of course
+bsd211fs -o fsoffset=0 2.11BSD_rq.dsk root
+bsd211fs -o fsoffset=425902 2.11BSD_rq.dsk home
+bsd211fs -o fsoffset=16302 2.11BSD_rq.dsk usr
+umount home; umount usr; umount root
