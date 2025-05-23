@@ -1,6 +1,6 @@
 # License
 
-With regard to the license status of 2.11 [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), most seem to arrive at it being covered by a combination of the [Caldera license](Caldera-license.pdf), for any code born from the early Unix versions (v1 - v7) and the [BSD license](https://en.wikipedia.org/wiki/BSD_licenses), for any subsequent BSD code.
+With regard to the license status of 2.11 [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution), [most](https://wiki.tuhs.org/doku.php?id=source:start) seem to arrive at it being covered by a combination of the [Caldera license](Caldera-license.pdf), for any code born from the early Unix versions (v1 - v7) or the [BSD license](https://en.wikipedia.org/wiki/BSD_licenses), for any subsequent BSD code.
 
 In a [post](https://retrocomputing.stackexchange.com/questions/30360/is-2-11bsd-source-code-encumbered) on the Retrocomputing StackExchange board, [Curt Sampson](https://retrocomputing.stackexchange.com/users/7208/cjs) commented:
 
